@@ -41,7 +41,7 @@ function Services () {
             <div class="col-sm-6 col-md-4">
                 <div class="team-item">
                   
-                      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fzefirka.net%2F2022%2F06%2F13%2Fmilye-kotiki-zaryazhayut-pozitivom-na-snimkax%2F&psig=AOvVaw0TJY7cb5QXc-ZKtUZutBKY&ust=1702645801957000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDd-IiAj4MDFQAAAAAdAAAAABAR" class="team-img" alt="pic" />                   
+                      <img src="https://cs6.livemaster.ru/storage/51/8d/e9304e78c01418b5ea956d3be36a.jpg" class="team-img" alt="pic" />                   
                       <h3>MYKOLA SHARSHATKIN</h3>            
                       <div class="team-info"><p>QA Engineer</p></div>
 
